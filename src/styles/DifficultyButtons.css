@@ -1,0 +1,13 @@
+.DifficultyButtons {
+	margin-bottom: 60px;
+	display: flex;
+	justify-content: space-around;
+	opacity: 1;
+	transition: .4s all;
+	height: 80px;
+	width: 300px;
+}
+
+.hide {
+	opacity: 0;
+}

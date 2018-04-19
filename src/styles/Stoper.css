@@ -1,0 +1,12 @@
+.Stoper {
+	opacity: 1;
+	transition: .4s all;
+	text-align: center;
+	margin-top: 20px;
+	color: green;
+	font-size: 30px;
+}
+
+.hide {
+	opacity: 0;
+}

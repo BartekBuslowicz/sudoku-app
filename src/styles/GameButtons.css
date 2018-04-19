@@ -1,0 +1,11 @@
+.GameButtons {
+	margin-top: 60px;
+	display: flex;
+	justify-content: space-around;
+	opacity: 1;
+	transition: .4s all;
+}
+
+.hide {
+	opacity: 0;
+}
